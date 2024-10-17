@@ -195,7 +195,6 @@ object CHExpressionUtil {
     FORMAT_STRING -> FormatStringValidator(),
     SKEWNESS -> DefaultValidator(),
     MAKE_YM_INTERVAL -> DefaultValidator(),
-    MAP_ZIP_WITH -> DefaultValidator(),
     KURTOSIS -> DefaultValidator(),
     REGR_R2 -> DefaultValidator(),
     REGR_SLOPE -> DefaultValidator(),
